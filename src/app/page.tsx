@@ -50,7 +50,7 @@ export default function Home({ }: Props) {
           </button>
         </div>
       </div>
-      
+
       <li className='w-full h-fit my-2'>USERS : {user.length}</li>
       <div className='border w-full h-[10rem] rounded-md p-2 overflow-y-scroll'>
         <div className="relative overflow-x-auto">
